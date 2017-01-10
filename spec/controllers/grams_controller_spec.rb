@@ -161,7 +161,6 @@ RSpec.describe GramsController, type: :controller do
       }
 
 
-      post :create, gram: { message: 'Hello!'}
       expect(response).to redirect_to root_path
 
       gram = Gram.last
