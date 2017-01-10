@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
   devise_for :users
   root "grams#index"
+  get 'about', to: 'grams#about'
   resources :grams do
     resources :comments, only: :create
   end
