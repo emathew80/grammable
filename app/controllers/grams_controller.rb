@@ -11,7 +11,7 @@ class GramsController < ApplicationController
   end
 
   def create
-    @gram = current_user.grams.create(gram_params)
+    @gram = Gram.create(gram_params.merge(user: current_user))
     if @gram.valid?
       redirect_to root_path
     else
