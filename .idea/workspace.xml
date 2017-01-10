@@ -78,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/app/views/grams/about.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="292" selection-start-line="5" selection-start-column="292" selection-end-line="5" selection-end-column="292" />
+              <caret line="5" column="523" selection-start-line="5" selection-start-column="523" selection-end-line="5" selection-end-column="523" />
               <folding />
             </state>
           </provider>
@@ -609,12 +609,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483983532776</updated>
-      <workItem from="1483983533935" duration="23508000" />
+      <workItem from="1483983533935" duration="23675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23508000" />
+    <option name="totallyTimeSpent" value="23675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -979,7 +979,7 @@
     <entry file="file://$PROJECT_DIR$/app/views/grams/about.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="292" selection-start-line="5" selection-start-column="292" selection-end-line="5" selection-end-column="292" />
+          <caret line="5" column="523" selection-start-line="5" selection-start-column="523" selection-end-line="5" selection-end-column="523" />
           <folding />
         </state>
       </provider>
